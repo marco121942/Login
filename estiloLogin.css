@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #FBFBFB;
+}
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+
+}
+ 
+.form {
+  width: 450px;
+  height: 450px;
+  border-radius: 4px;
+  -webki-border-radius: 4px;
+  -moz-border-radius: 4px;
+  box-shadow: 0px 2px 10px  #707070;
+  background: #FBFBFB;
+ 
+}
+
+.boton{
+    background: #00B1F7;
+    color: #ffffff;
+    width: 250px;
+    margin-top:25px;
+ 
+
+}
+label{
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 280px;
+    height: 100px;
+
+}
